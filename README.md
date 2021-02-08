@@ -51,3 +51,12 @@ introduced manually by the administrator.
 This is what the guest will see
 
 ![Website main page](wedding_documentation/picture_6.png)
+
+## Frontend
+
+In this page there are also images with the place where the wedding is organised, a map with the exact
+position and others.
+
+![Website main page](wedding_documentation/picture_7.png)
+
+![Website main page](wedding_documentation/picture_8.png)
