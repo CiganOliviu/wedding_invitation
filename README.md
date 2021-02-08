@@ -48,7 +48,7 @@ After the answer is sent, the guest_environment_details table comes in place. He
 about where is the guest place, at what table and how the table looks like. This information is again
 introduced manually by the administrator.
 
-This is what the guest will see
+This is what the guest will see after a positive answer is sent.
 
 ![Website main page](wedding_documentation/picture_6.png)
 
