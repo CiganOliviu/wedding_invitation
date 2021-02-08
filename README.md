@@ -34,3 +34,12 @@ What the app administrator will see
 How the form looks like for the guest who did not answered yet to the invitation
 
 ![Website main page](wedding_documentation/picture_4.png)
+
+The default answer is no, so if you don't answer at all you will already have the negative answer
+for the invitation.
+In the moment the guest sends a positive answer to the invitation, the database will be automatically
+updated and the interface will change.
+
+What the app administrator will see
+
+![Website main page](wedding_documentation/picture_5.png)
