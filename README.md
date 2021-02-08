@@ -63,4 +63,4 @@ position and others.
 
 The project, like any other I've created, it's responsible, easy to access and use by almost any user.
 
-![Website main page](wedding_documentation/picture_9.png)
+![Website main page](wedding_documentation/picture_9.png) ![Website main page](wedding_documentation/picture_10.png)
