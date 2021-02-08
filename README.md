@@ -22,7 +22,7 @@ contains the whole mechanism of the app which is asking the guest after he's aut
 form if he wants to come or not. That's a boolean question, it is only accept or refuse. That answer is
 stored in a table where the couple or the app administrator can see through simple queries the people
 who accepted, how many of them there are, the people who refused and others.
-The table where this form information is stored is called confirm_answers. This table is populated
+The table where this form information is stored is called confirm_answers. This table is automatically populated
 after a guest is going to authenticate in the platform, the data from which is populated is stored in 
 the user table from the authentication and authorization database where the app administrator is creating
 an account for all guests. 
