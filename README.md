@@ -43,3 +43,11 @@ updated and the interface will change.
 What the app administrator will see
 
 ![Website main page](wedding_documentation/picture_5.png)
+
+After the answer is sent, the guest_environment_details table comes in place. Here it's stored information
+about where is the guest place, at what table and how the table looks like. This information is again
+introduced manually by the administrator.
+
+This is what the guest will see
+
+![Website main page](wedding_documentation/picture_6.png)
