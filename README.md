@@ -25,7 +25,7 @@ who accepted, how many of them there are, the people who refused and others.
 The table where this form information is stored is called confirm_answers. This table is automatically populated
 after a guest is going to authenticate in the platform, the data from which is populated is stored in 
 the user table from the authentication and authorization database where the app administrator is creating
-an account for all guests. 
+an account for every guest. 
 
 What the app administrator will see
 
